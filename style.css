@@ -206,12 +206,10 @@ h2{
 }
 
 #vendors{
-    height: 90vh;
-    width: 100vw;
-    margin: 0;
-    display: flex;
-    justify-content: center; /* Center the image horizontally */
-    align-items: center; /* Center the image vertically */
+    height: 85vh;
+    width: 80vw;
+    margin-left: 10vw;
+
 
 
 
