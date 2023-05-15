@@ -179,12 +179,9 @@ h2{
 
 }
 #stakeholder{
-    height: 90vh;
+    margin-top: 10vh;
+    height: 85vh;
     width: 100vw;
-    margin: 0;
-    display: flex;
-    justify-content: center; /* Center the image horizontally */
-    align-items: center; /* Center the image vertically */
 
 
 
@@ -242,12 +239,10 @@ h2{
 
 }
 #otherblocks{
-    height: 90vh;
-    width: 100vw;
-    margin: 0;
-    display: flex;
-    justify-content: center; /* Center the image horizontally */
-    align-items: center; /* Center the image vertically */
+    height: 60vh;
+    width: 90vw;
+    margin-left: 0;
+
 
 
 
