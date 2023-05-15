@@ -125,25 +125,25 @@ h2{
 
 /*}*/
 
-.box {
-    background-color: black;
+/*.box {*/
+/*    background-color: black;*/
 
-    width: 40vw;
-    height: 25vh;
-    margin-bottom: 0;
+/*    width: 40vw;*/
+/*    height: 25vh;*/
+/*    margin-bottom: 0;*/
 
 
-}
-.box p{
-    color:white;
-    text-align:left;
-    font-family: "JetBrains Mono";
-    font-size: 1vw;
-    word-wrap: break-word;
-    font-weight: lighter;
-    word-wrap: break-word;
-    margin: 0;
-}
+/*}*/
+/*.box p{*/
+/*    color:white;*/
+/*    text-align:left;*/
+/*    font-family: "JetBrains Mono";*/
+/*    font-size: 1vw;*/
+/*    word-wrap: break-word;*/
+/*    font-weight: lighter;*/
+/*    word-wrap: break-word;*/
+/*    margin: 0;*/
+/*}*/
 
 #techtext{
     color:white;
