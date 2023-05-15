@@ -6,6 +6,7 @@ body {
     height: 100vh;
     overflow-x: hidden; /* Hide horizontal overflow */
 }
+
 h1{
     color:white;
 
@@ -88,19 +89,41 @@ h2{
     height: 30vh;
     margin: 0;
 }
-
-
-#toptechnologies{
-    height: 90vh;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    gap: 2vw; /* Add some spacing between the boxes */
-
+#techoverview{
+    color:white;
+    text-align:center;
+    font-family: "JetBrains Mono";
+    font-size: 4vw;
+    letter-spacing: 0.6vw;
+    font-weight: normal;
     margin: 0;
+    height: 20vh;
+    width: 100vw;
 
 }
+#techviz{
+    width: 80vw;
+    margin-left: 10vw;
+
+
+
+}
+#toptechnologies{
+    margin-top: 10vh;
+    width: 80vw;
+    margin-left: 10vw;
+    }
+/*    height: 90vh;*/
+/*    display: flex;*/
+/*    flex-wrap: wrap;*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*    gap: 2vw; !* Add some spacing between the boxes *!*/
+
+/*    margin: 0;*/
+
+/*}*/
+
 .box {
     background-color: black;
 
