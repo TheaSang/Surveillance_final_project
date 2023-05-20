@@ -374,3 +374,17 @@ margin-left: 0;
 /*    font-family: "JetBrains Mono";*/
 /*    font-weight: lighter;*/
 /*}*/
+#reference{
+    margin-top: 20vh;
+    width: 80vw;
+    margin-left: 10vw;
+    background-color: black;
+    word-wrap: break-word;
+
+}
+#reference{
+    font-family: "JetBrains Mono";
+    color: white;
+    font-size: 1.3vw;
+    font-weight: lighter;
+}
