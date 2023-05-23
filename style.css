@@ -270,10 +270,10 @@ h2{
     /*justify-content: center;*/
     /*flex-wrap: inherit;*/
     /*background-color: black;*/
-margin-left: 0;
+
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(2, 1fr);
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: repeat(1, 1fr);
     gap: 10px; /* optional: add some gap between grid items */
     justify-content: center; /* Center the items horizontally */
     align-content: center; /* Center the items vertically */
@@ -282,8 +282,8 @@ margin-left: 0;
 
 }
 #smallmap div{
-    width: 47vw;
-    margin-left: 1vw;
+    width: 54vw;
+    margin-left: 22vw;
 }
 #stakeholder{
     margin-top: 5vh;
